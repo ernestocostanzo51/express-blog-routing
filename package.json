@@ -4,6 +4,12 @@
   "description": "",
   "main": "app.js",
  
+  "scripts": {
+    "start": "node app.js",
+    "watch": "node --watch app.js"
+  },
+
+  
   "keywords": [],
   "author": "",
   "license": "ISC",
